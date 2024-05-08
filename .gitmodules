@@ -1,0 +1,9 @@
+[submodule "ref/tinyhttpd-11k"]
+	path = ref/tinyhttpd-11k
+	url = https://github.com/EZLippi/Tinyhttpd.git
+[submodule "ref/tinyhttpd-1.7k"]
+	path = ref/tinyhttpd-1.7k
+	url = https://github.com/cbsheng/tinyhttpd.git
+[submodule "ref/tinyhttpd-149"]
+	path = ref/tinyhttpd-149
+	url = https://github.com/nengm/Tinyhttpd.git
